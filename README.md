@@ -160,4 +160,3 @@ We also build and evaluate a Gradient Boosting Regressor (GBM) model. This inclu
 
 This Jupyter Notebook provides a detailed walkthrough of regression analysis, including data preprocessing, feature selection, and model building. It demonstrates how to handle missing values, outliers, and correlated features, and how to optimize model hyperparameters. This code can serve as a template for similar regression tasks, and it can be adapted for different datasets and regression objectives.
 
->>>>>>> db7cd36b5ba30e46ebb0334dd1200500a11aee1c
