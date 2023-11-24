@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# CodingPlatforms
-Will be updating problems with solutions I solved on regular basis on few coding platforms.
-=======
 # Regression Analysis with Data Preprocessing and Model Building
 
 This Jupyter Notebook demonstrates a comprehensive workflow for regression analysis using Python. The notebook covers various aspects of data preprocessing, including handling missing values, outliers, and feature selection. Additionally, it includes the implementation and evaluation of machine learning models, specifically Random Forest Regressor and Gradient Boosting Regressor.
